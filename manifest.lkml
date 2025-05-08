@@ -2,7 +2,7 @@ project_name: "simple_extension"
 
 application: simple_extension {
   label: "Simple Extension"
-  url: "https://3ca639450ed283e68be0bb843573af04.serveo.net/bundle.js"
+  url: "https://a5324a90814bd9b262bb6b8edeee0a53.serveo.net/bundle.js"
   # file: "bundle.js"
   entitlements: {
     core_api_methods: ["me", "run_inline_query"]
