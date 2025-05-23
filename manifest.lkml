@@ -2,7 +2,7 @@ project_name: "simple_extension"
 
 application: simple_extension {
   label: "Simple Extension"
-  url: "https://bachelor-consumer-tumor-seven.trycloudflare.com/bundle.js"
+  url: "https://conf-mails-colleague-chocolate.trycloudflare.com/bundle.js"
   # file: "bundle.js"
   entitlements: {
     core_api_methods: ["me", "run_inline_query"]
