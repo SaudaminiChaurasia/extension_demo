@@ -1,4 +1,4 @@
-project_name: "simple_extension"
+project_name: "extension_demo"
 
 application: simple_extension {
   label: "Simple Extension"
